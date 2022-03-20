@@ -1,0 +1,14 @@
+.user-control
+{
+    border: solid 1px;
+    height: 100vh;
+    width: 100vw;
+    background-color: bisque;
+}
+
+.user-control div
+{
+    border: solid green;
+    margin: 2px ;
+    font-size: 30px;
+}
