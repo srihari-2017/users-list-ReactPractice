@@ -1,0 +1,17 @@
+.newuser-control
+{
+    background-color: white;
+}
+
+.newuser-control label
+{
+    width: 100%;
+}
+
+.user-control button
+{
+    border: solid green;
+    margin: 2px ;
+    font-size: 30px;
+}
+
